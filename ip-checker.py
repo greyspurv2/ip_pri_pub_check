@@ -19,7 +19,7 @@ else:
 
 print("Enter the IP")
 if
-input() = class_a
+input() = c
 else:
     print("the IP is public)
 
